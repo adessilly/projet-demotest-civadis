@@ -1,0 +1,26 @@
+* {
+    font-family: system-ui;
+}
+
+div+div {
+    margin-top: 10px;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: #eee;
+    border-radius: 10px;
+}
+
+div span {
+    display: flex;
+    gap: 10px;
+}
+
+div a {
+    font-style: normal;
+    text-decoration: none;
+    color: #2173be;
+}
