@@ -1,6 +1,5 @@
 /vendor
 /.idea
-.env
 Homestead.json
 Homestead.yaml
 /storage/data
